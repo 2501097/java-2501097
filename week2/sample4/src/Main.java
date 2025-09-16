@@ -26,11 +26,5 @@ public class Main {
         System.out.printf("%s님의 몸무게는 %.1f Kg 입니다.\n",name, weight);
 
 
-
-
-
-
-
-
     }
 }
